@@ -235,9 +235,9 @@ Meta Ads generates the highest revenue and the largest number of customers. Howe
 Organic and Referral customers have the highest LTV, suggesting that customer quality differs across acquisition channels. Before changing marketing budgets, the company should compare CAC and LTV for each channel to identify the best long-term return on investment.
 
 ## 5. Customer activation is a bigger opportunity than retention
-Out of 4,994 registered customers, 777 customers (15.6%) have never placed an order.
-At the same time, 45.3% of customers make a second purchase within 90 days, indicating that many customers continue buying after their first completed order.
-This suggests that activating registered but inactive customers may be a faster growth opportunity than focusing only on retention initiatives.
+Customer retention was identified as a business challenge, but the analysis shows that 45.3% of customers make a second purchase within 90 days. At the same time, 777 out of 4,994 registered customers have never placed an order. This means that encouraging inactive customers to make their first purchase could be a good growth opportunity.
+## 6. Better reporting would improve decision-making
+The analysis combined data from marketing, sales, customers, products, and inventory into one reporting view. This helps teams work with the same KPIs and supports more consistent business decisions across departments.
 
 <p align="center">
   <img src="images/mind-map.png" alt="mind-map">
