@@ -65,8 +65,10 @@ The objective of this project was to perform a complete analytical workflow cons
 
 
 ## Observations 
-Elektronika represents 37.13% of total revenue — PLN 10.73m out of PLN 28.90m. Akcesoria, dziecko and uroda represents the lowest revenue.
-Recommendiation: The Electronics category should remain a strategic business priority and receive a significant share of marketing and promotional resources. Due to its substantial contribution to overall revenue, the category should be prominently featured on the website and in advertising campaigns. However, revenue should be analyzed together with profitability metrics, as high revenue does not necessarily translate into high margins.
+Category "Elektronika" represents 37.13% of total revenue — PLN 10.73m.<br>
+Category "Akcesoria", "Dziecko" and "Uroda" represents the lowest revenue.
+## Recommendiation: 
+Category "Elektronika" should remain a strategic business priority and receive a significant share of marketing and promotional resources. Due to its substantial contribution to overall revenue, the category should be prominently featured on the website and in advertising campaigns. However, revenue should be analyzed together with profitability metrics, as high revenue does not necessarily translate into high margins.
 
 ## Question 2: Which categories have the highest and lowest profit margins?
 
@@ -75,11 +77,11 @@ Recommendiation: The Electronics category should remain a strategic business pri
 </p>
 
 ## Observation
-Although Electronics is the largest revenue-generating category (PLN 10.7 million), it also has the lowest average profit margin (35.44%) among all categories. In contrast, Accessories (56.06%) and Beauty (54.52%) achieve the highest margins despite generating substantially lower revenue.
-This suggests that Electronics operates as a high-volume, lower-margin category, while Accessories and Beauty generate greater profit per unit sold.
+Although category "Elektronika" is the largest revenue-generating category (PLN 10.7 million), it also has the lowest average profit margin (35.44%) among all categories. In contrast, category "Akcesoria" (56.06%) and "Uroda" (54.52%) achieve the highest margins despite generating substantially lower revenue.
+This suggests that "Elektronika" operates as a high-volume, lower-margin category, while "Akcesoria" and "Uroda" generate greater profit per unit sold.
 
 ## Recommendation
-Continue prioritizing the Electronics category due to its significant contribution to revenue. However, profitability can be further improved by implementing a cross-selling strategy.
+Continue prioritizing "Elektronika" category due to its significant contribution to revenue. However, profitability can be further improved by implementing a cross-selling strategy.
 Customers purchasing electronics should be actively presented with complementary accessory products during the shopping journey.
 These products typically generate higher margins and can increase both the average order value and overall profitability without significantly increasing customer acquisition costs.
 
@@ -90,8 +92,8 @@ These products typically generate higher margins and can increase both the avera
 </p>
 
 ## Observation
-All products with the lowest realized margins belong to the Electronics category. Their realized margins are between 13.9% and 16.1%, which is much lower than the average margin for Electronics (35.4%).
-This confirms the earlier finding that Electronics generates the highest revenue, but at the same time has the lowest profitability among all categories.
+All products with the lowest realized margins belong to the "Elektronika" category. Their realized margins are between 13.9% and 16.1%, which is much lower than the average margin for "Elektronika" (35.4%).
+This confirms the earlier finding that "Elektronika" generates the highest revenue, but at the same time has the lowest profitability among all categories.
 
 ## Recommendation
 Review supplier prices for the 10 products with the lowest margins and try to negotiate better purchase prices. Also, check if these products receive discounts too often, as their margins are already low. In addition, show high-margin accessories as recommended products when customers buy electronics to increase overall profit.
@@ -166,12 +168,12 @@ The company should also investigate the reasons behind returned and cancelled or
 
 
 ## Observation
-The Children category has the highest return rate (9.43%). Although it generates relatively low revenue, it has one of the highest margins. This suggests that reducing returns in this category could improve profitability.
-Electronics requires special attention. It generates the highest revenue, but has the lowest average margin and the second-highest return rate (9.28%). High returns combined with low margins may significantly reduce profits in the company's most important category.
-On the other hand, Accessories have the lowest return rate (7.74%) and the highest average margin (56.06%). Although this category generates relatively low revenue, its strong profitability and low return rate make it one of the most promising categories for future growth.
+Category "Dziecko" has the highest return rate (9.43%). Although it generates relatively low revenue, it has one of the highest margins. This suggests that reducing returns in this category could improve profitability.
+"Elektronika" requires special attention. It generates the highest revenue, but has the lowest average margin and the second-highest return rate (9.28%). High returns combined with low margins may significantly reduce profits in the company's most important category.
+On the other hand, "Akcesoria" have the lowest return rate (7.74%) and the highest average margin (56.06%). Although this category generates relatively low revenue, its strong profitability and low return rate make it one of the most promising categories for future growth.
 
 ## Recommendation
-Investigate the reasons for returns in the Children and Electronics categories and review pricing and discount policies for Electronics. At the same time, increase the visibility of Accessories, especially as recommended products for Electronics purchases, as this category offers high margins and low return rates.
+Investigate the reasons for returns in the "Dziecko" and "Elektronika" categories and review pricing and discount policies. At the same time, increase the visibility of "Akcesoria", especially as recommended products for Electronics purchases, as this category offers high margins and low return rates.
 
 ## Question 8: Which marketing channels generate the highest customer lifetime value (LTV)?
 
@@ -233,13 +235,13 @@ These results support the findings from the previous analysis and suggest that t
 
 ## <h1 align="center">Key Business Conclusions</h1>
 
-## 1. Electronics is the main revenue driver, but also the biggest profitability risk
-Electronics generates 37% of total revenue (PLN 10.7M), making it the company's most important category. However, it also has the lowest average margin (35.4%) and the second-highest return rate (9.28%).
+## 1. Category "Elektronika" is the main revenue driver, but also the biggest profitability risk
+Category "Elektronika" generates 37% of total revenue (PLN 10.7M), making it the company's most important category. However, it also has the lowest average margin (35.4%) and the second-highest return rate (9.28%).
 In addition, all products with the lowest realized margins belong to this category. This suggests that Electronics should remain a strategic priority, but pricing, discount, and return policies require further review.
 
-## 2. Accessories offer the strongest growth opportunity
-Accessories generate relatively low revenue, but they have the highest average margin (56.1%) and the lowest return rate (7.74%).
-This makes Accessories one of the most profitable categories in the business. A cross-selling strategy that promotes accessories alongside Electronics products could increase profitability without significantly increasing marketing costs.
+## 2. Category "Akcesoria" offer the strongest growth opportunity
+Category "Akcesoria" generate relatively low revenue, but they have the highest average margin (56.1%) and the lowest return rate (7.74%).
+This makes "Akcesoria" one of the most profitable categories in the business. A cross-selling strategy that promotes accessories alongside electronics products could increase profitability without significantly increasing marketing costs.
 
 ## 3. Inventory management requires immediate attention
 The analysis revealed two major inventory issues:
@@ -253,6 +255,7 @@ Organic and Referral customers have the highest LTV, suggesting that customer qu
 
 ## 5. Customer activation is a bigger opportunity than retention
 Customer retention was identified as a business challenge, but the analysis shows that 45.3% of customers make a second purchase within 90 days. At the same time, 777 out of 4,994 registered customers have never placed an order. This means that encouraging inactive customers to make their first purchase could be a good growth opportunity.
+
 ## 6. Better reporting would improve decision-making
 The analysis combined data from marketing, sales, customers, products, and inventory into one reporting view. This helps teams work with the same KPIs and supports more consistent business decisions across departments.
 
@@ -262,5 +265,5 @@ The analysis combined data from marketing, sales, customers, products, and inven
 
  
 ## <h1 align="center">Final Summary</h1>
-ShopFlow's biggest opportunities are improving the profitability of Electronics, expanding sales of high-margin Accessories, optimizing inventory management, and making marketing decisions based on customer value rather than acquisition volume alone. Addressing these areas could improve both profitability and long-term growth.
+ShopFlow's biggest opportunities are improving the profitability of category "Elektronika", expanding sales of high-margin category "Akcesoria", optimizing inventory management, and making marketing decisions based on customer value rather than acquisition volume alone. Addressing these areas could improve both profitability and long-term growth.
 
