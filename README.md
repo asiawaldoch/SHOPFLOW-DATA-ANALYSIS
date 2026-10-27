@@ -121,6 +121,11 @@ The company should increase marketing activity and inventory levels before Novem
   <img src="images/repeat-purchase.png" alt="repeat-purchase">
 </p>
 
+<p align="center">
+  <img src="images/repeat-purchase1.1.png" alt="repeat-purchase1.1">
+</p>
+
+
 ## Observation
 Out of 4,203 customers who made their first completed purchase, 1,904 customers (45.3%) made a second purchase within 90 days.
 The differences between marketing channels are relatively small, which suggests that customer retention is fairly consistent across acquisition channels.
@@ -133,6 +138,14 @@ At the same time, the company should review the quality of customers acquired th
 Since more than half of customers do not return within 90 days, the company could also introduce targeted retention campaigns, loyalty incentives, and personalized product recommendations to encourage repeat purchases.
 
 ## Question 6: How many registered customers have placed an order?
+
+<p align="center">
+  <img src="images/placed-an-order.png" alt="placed-an-order">
+</p>
+
+<p align="center">
+  <img src="images/delivery-status.png" alt="delivery-status">
+</p>
 
 
 ## Observation
