@@ -53,7 +53,7 @@ The objective of this project was to perform a complete analytical workflow cons
 4.	Exploratory business analysis.
 5.	Generation of actionable business recommendations.
 
-## <h1 align="center">6.	ANALYSIS</h1>
+## <h1 align="center">ANALYSIS</h1>
 ## Question 1: Which categories generate the highest revenue?
 
 <p align="center">
@@ -65,8 +65,8 @@ The objective of this project was to perform a complete analytical workflow cons
 
 
 ## Observations 
-Category "Elektronika" represents 37.13% of total revenue — PLN 10.73m.<br>
-Category "Akcesoria", "Dziecko" and "Uroda" represents the lowest revenue.
+Category "Elektronika" has been marked in green as it represents the biggest percentage (37.13%) of total revenue — PLN 10.73m.<br>
+Category "Akcesoria", "Dziecko" and "Uroda" represents the lowest revenue, with "Akcesoria" marked in red as the lowest one.
 ## Recommendiation: 
 Category "Elektronika" should remain a strategic business priority and receive a significant share of marketing and promotional resources. Due to its substantial contribution to overall revenue, the category should be prominently featured on the website and in advertising campaigns. However, revenue should be analyzed together with profitability metrics, as high revenue does not necessarily translate into high margins.
 
@@ -77,12 +77,13 @@ Category "Elektronika" should remain a strategic business priority and receive a
 </p>
 
 ## Observation
-Although category "Elektronika" is the largest revenue-generating category (PLN 10.7 million), it also has the lowest average profit margin (35.44%) among all categories. In contrast, category "Akcesoria" (56.06%) and "Uroda" (54.52%) achieve the highest margins despite generating substantially lower revenue.
+Although category "Elektronika" is the largest revenue-generating category (PLN 10.7 million), it also has the lowest average profit margin among all categories - 35.44% marked in red in the table. <br>
+In contrast, category "Akcesoria" (56.06%) and "Uroda" (54.52%) and "Dziecko" (52,96%) achieve the highest margins despite generating substantially lower revenue. These categories has been marked in green to distinguish them from one another.<br>
 This suggests that "Elektronika" operates as a high-volume, lower-margin category, while "Akcesoria" and "Uroda" generate greater profit per unit sold.
 
 ## Recommendation
-Continue prioritizing "Elektronika" category due to its significant contribution to revenue. However, profitability can be further improved by implementing a cross-selling strategy.
-Customers purchasing electronics should be actively presented with complementary accessory products during the shopping journey.
+Continue prioritizing "Elektronika" category due to its significant contribution to revenue. However, profitability can be further improved by implementing a cross-selling strategy.<br>
+Customers purchasing electronics should be actively presented with complementary accessory products during the shopping journey.<br>
 These products typically generate higher margins and can increase both the average order value and overall profitability without significantly increasing customer acquisition costs.
 
 ## Question 3:  Which products have high sales but low margins?
@@ -92,7 +93,8 @@ These products typically generate higher margins and can increase both the avera
 </p>
 
 ## Observation
-All products with the lowest realized margins belong to the "Elektronika" category. Their realized margins are between 13.9% and 16.1%, which is much lower than the average margin for "Elektronika" (35.4%).
+All categories have been color-coded, ranging from red for the lowest margin to green for the highest.<br>
+All products with the lowest realized margins belong to the "Elektronika" category. Their realized margins are between 13.9% and 16.1%, which is much lower than the average margin for "Elektronika" (35.4%).<br>
 This confirms the earlier finding that "Elektronika" generates the highest revenue, but at the same time has the lowest profitability among all categories.
 
 ## Recommendation
@@ -105,13 +107,13 @@ Review supplier prices for the 10 products with the lowest margins and try to ne
 </p>
 
 ## Observation
-Sales show a clear seasonal pattern. The highest sales and order volumes occur in November and December in both years:
-•	November 2024: 1,521 orders, PLN 2.12M
-•	November 2025: 1,601 orders, PLN 2.36M (highest month)
-After the holiday season, sales drop significantly in January:
-•	January 2025: 460 orders, PLN 669K
-•	January 2026: 455 orders, PLN 618K
-This suggests that customer demand is strongly influenced by Black Friday and Christmas shopping periods.
+Sales show a clear seasonal pattern. The highest sales and order volumes occur in November and December in both years:<br>
+•	November 2024: 1,521 orders, PLN 2.12M<br>
+•	November 2025: 1,601 orders, PLN 2.36M (highest month)<br>
+After the holiday season, sales drop significantly in January:<br>
+•	January 2025: 460 orders, PLN 669K<br>
+•	January 2026: 455 orders, PLN 618K<br>
+This suggests that customer demand is strongly influenced by Black Friday and Christmas shopping periods.<br>
 The number of orders and total sales move almost identically throughout the entire period. This means that revenue growth is mainly driven by changes in order volume rather than major changes in average order value.
 
 ## Recommendation
@@ -129,14 +131,14 @@ The company should increase marketing activity and inventory levels before Novem
 
 
 ## Observation
-Out of 4,203 customers who made their first completed purchase, 1,904 customers (45.3%) made a second purchase within 90 days.
-The differences between marketing channels are relatively small, which suggests that customer retention is fairly consistent across acquisition channels.
-Influencer customers have the highest repeat purchase rate (47.2%), followed by Meta Ads (46.9%). The lowest repeat purchase  lace d observed for Newsletter (42.3%) and Google Ads (43.4%).
+Out of 4,203 customers who made their first completed purchase, 1,904 customers (45.3%) made a second purchase within 90 days.<br>
+The differences between marketing channels are relatively small, which suggests that customer retention is fairly consistent across acquisition channels.<br>
+Influencer customers have the highest repeat purchase rate (47.2%), followed by Meta Ads (46.9%). The lowest repeat purchase  lace d observed for Newsletter (42.3%) and Google Ads (43.4%).<br>
 Although Influencer has the highest repeat purchase rate, Meta Ads generates a much larger customer base and a similar retention rate, making it the most impactful acquisition channel overall.
 
 ## Recommendation
-Customers acquired through Influencer and Meta Ads campaigns show the strongest retention and should be considered for additional marketing investment.
-At the same time, the company should review the quality of customers acquired through Google Ads and Newsletter campaigns, as they are less likely to make a second purchase within 90 days.
+Customers acquired through Influencer and Meta Ads campaigns show the strongest retention and should be considered for additional marketing investment.<br>
+At the same time, the company should review the quality of customers acquired through Google Ads and Newsletter campaigns, as they are less likely to make a second purchase within 90 days.<br>
 Since more than half of customers do not return within 90 days, the company could also introduce targeted retention campaigns, loyalty incentives, and personalized product recommendations to encourage repeat purchases.
 
 ## Question 6: How many registered customers have placed an order?
@@ -151,13 +153,13 @@ Since more than half of customers do not return within 90 days, the company coul
 
 
 ## Observation
-Out of 4,994 registered customer accounts, 4,217 customers (84.4%) placed at least one order, while 777 customers (15.6%) never made a purchase.
-This suggests that the company converts most registered users into paying customers, but there is still an opportunity to activate customers who registered but never completed an order.
+Out of 4,994 registered customer accounts, 4,217 customers (84.4%) placed at least one order, while 777 customers (15.6%) never made a purchase.<br>
+This suggests that the company converts most registered users into paying customers, but there is still an opportunity to activate customers who registered but never completed an order.<br>
 A notable finding is that 1,435 customers had at least one returned order, which may indicate issues with product fit, quality, product descriptions, or customer expectations.
 
 
 ## Recommendation
-Create targeted campaigns for the 777 registered customers who have never placed an order, such as welcome discounts or first-purchase incentives.
+Create targeted campaigns for the 777 registered customers who have never placed an order, such as welcome discounts or first-purchase incentives.<br>
 The company should also investigate the reasons behind returned and cancelled orders, especially in categories with high sales volumes. Reducing returns and cancellations could improve customer satisfaction and increase profitability without acquiring new customers.
 
 ## Question 7: Which product categories have the highest return rate?
@@ -168,8 +170,8 @@ The company should also investigate the reasons behind returned and cancelled or
 
 
 ## Observation
-Category "Dziecko" has the highest return rate (9.43%). Although it generates relatively low revenue, it has one of the highest margins. This suggests that reducing returns in this category could improve profitability.
-"Elektronika" requires special attention. It generates the highest revenue, but has the lowest average margin and the second-highest return rate (9.28%). High returns combined with low margins may significantly reduce profits in the company's most important category.
+Category "Dziecko" has the highest return rate (9.43%) and has been marked in green in the table. Although it generates relatively low revenue, it has one of the highest margins. This suggests that reducing returns in this category could improve profitability.<br>
+"Elektronika", marked in red, requires special attention. It generates the highest revenue, but has the lowest average margin and the second-highest return rate (9.28%). High returns combined with low margins may significantly reduce profits in the company's most important category.<br>
 On the other hand, "Akcesoria" have the lowest return rate (7.74%) and the highest average margin (56.06%). Although this category generates relatively low revenue, its strong profitability and low return rate make it one of the most promising categories for future growth.
 
 ## Recommendation
@@ -182,11 +184,11 @@ Investigate the reasons for returns in the "Dziecko" and "Elektronika" categorie
 </p>
 
 ## Observations
-Meta Ads generates the highest revenue (PLN 10.1M) and the largest customer base (1,481 customers). However, despite receiving 42% of the marketing budget, it does not generate the highest customer lifetime value (LTV). Its LTV (PLN 6,848 per customer) is lower than Organic, Referral, and Newsletter customers.
+Meta Ads generates the highest revenue (PLN 10.1M) and the largest customer base (1,481 customers). However, despite receiving 42% of the marketing budget, it does not generate the highest customer lifetime value (LTV). Its LTV (PLN 6,848 per customer) is lower than Organic, Referral, and Newsletter customers.<br>
 Organic customers have the highest LTV (PLN 7,131 per customer) even without paid acquisition costs. Referral customers also show strong performance with an LTV of PLN 7,081 per customer.
 
 ## Recommendation
-Meta Ads remains an important channel because it generates the highest revenue and customer volume. However, despite receiving 42% of the marketing budget, it does not generate the highest customer lifetime value (LTV).
+Meta Ads remains an important channel because it generates the highest revenue and customer volume. However, despite receiving 42% of the marketing budget, it does not generate the highest customer lifetime value (LTV).<br>
 Before reallocating marketing spend, the company should calculate Customer Acquisition Cost (CAC) for each channel and compare it with LTV. This would help determine which channels deliver the best return on marketing investment.
 At the same time, the company should consider increasing focus on Organic and Referral channels, as they generate the highest-value customers and may provide a better long-term return.
 
@@ -198,7 +200,7 @@ At the same time, the company should consider increasing focus on Organic and Re
 
 ## Observation
 A total of 434 active products (22% of the product catalog) have stock levels at or below the reorder point. This means a large number of products may soon run out of stock.
-In addition, some products have negative stock levels, which may indicate inventory errors or problems with the stock recording process.
+In addition, some products have negative stock levels (marked in red), which may indicate inventory errors or problems with the stock recording process.
 
 ## Recommendation
 The company should review its inventory management process and investigate the cause of negative stock levels. Automatic reorder alerts should be introduced to help prevent stock shortages. Priority should be given to products with zero or negative stock and products with high sales volume.
@@ -214,7 +216,7 @@ The company should review its inventory management process and investigate the c
 Among the 20 best-selling products, 4 products already require reorder, including products with zero or very low stock levels. This confirms the findings from the previous analysis that inventory management may be a significant issue.
 The fact that some top-selling products are close to being out of stock increases the risk of lost sales and lower customer satisfaction.
 ## Recommendation
-The company should investigate the inventory and replenishment process more closely, as the results suggest possible issues with stock planning, inventory tracking, or product ordering. This problem should be reported to the operations or supply chain team for further investigation.
+The company should investigate the inventory and replenishment process more closely, as the results suggest possible issues with stock planning, inventory tracking, or product ordering. This problem should be reported to the operations or supply chain team for further investigation.<br>
 Priority should be given to best-selling products that are already below their reorder level to prevent future stock shortages and lost revenue.
 
 ## Question 11: Which products may be overstocked?
@@ -225,9 +227,9 @@ Priority should be given to best-selling products that are already below their r
 
 
 ## Observations
-A total of 830 products have a stock level above 500 units. Several of these products have very high inventory levels despite relatively low sales volumes. For example:
-•	Szalik wełniany: 1,693 units in stock, only 18 units sold
-•	Bluza z kapturem: 1,589 units in stock, only 18 units sold
+A total of 830 products have a stock level above 500 units. Several of these products have very high inventory levels despite relatively low sales volumes. For example:<br>
+•	Szalik wełniany: 1,693 units in stock, only 18 units sold<br>
+•	Bluza z kapturem: 1,589 units in stock, only 18 units sold<br>
 This suggests that the company may be overstocking some products while facing shortages for others. Combined with the previous analysis, this indicates potential weaknesses in inventory planning and demand forecasting.
 ## Recommendation
 The company should review its inventory planning process and identify products with high stock levels but low sales. Reducing future orders for slow-moving products could free up warehouse space and working capital.
