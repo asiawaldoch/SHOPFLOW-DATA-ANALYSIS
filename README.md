@@ -55,21 +55,13 @@ The objective of this project was to perform a complete analytical workflow cons
 
 ## <h1 align="center">6.	ANALYSIS</h1>
 ## Question 1: Which categories generate the highest revenue?
-<p align="center">
-  <img src="images/revenue.png" alt="revenue">
-</p>
- <p align="center">
-  <img src="images/revenue-category.png" alt="revenue-category">
-</p>
 
 ## Observations 
 Elektronika represents 37.13% of total revenue — PLN 10.73m out of PLN 28.90m. Akcesoria, dziecko and uroda represents the lowest revenue.
 Recommendiation: The Electronics category should remain a strategic business priority and receive a significant share of marketing and promotional resources. Due to its substantial contribution to overall revenue, the category should be prominently featured on the website and in advertising campaigns. However, revenue should be analyzed together with profitability metrics, as high revenue does not necessarily translate into high margins.
 
 ## Question 2: Which categories have the highest and lowest profit margins?
-<p align="center">
-  <img src="images/profit-margins.png" alt="profit-margins">
-</p>
+
 
 ## Observation
 Although Electronics is the largest revenue-generating category (PLN 10.7 million), it also has the lowest average profit margin (35.44%) among all categories. In contrast, Accessories (56.06%) and Beauty (54.52%) achieve the highest margins despite generating substantially lower revenue.
@@ -81,9 +73,7 @@ Customers purchasing electronics should be actively presented with complementary
 These products typically generate higher margins and can increase both the average order value and overall profitability without significantly increasing customer acquisition costs.
 
 ## Question 3:  Which products have high sales but low margins?
-<p align="center">
-  <img src="images/sales-margins.png" alt="sales-margins">
-</p>
+
 
 ## Observation
 All products with the lowest realized margins belong to the Electronics category. Their realized margins are between 13.9% and 16.1%, which is much lower than the average margin for Electronics (35.4%).
@@ -92,14 +82,8 @@ This confirms the earlier finding that Electronics generates the highest revenue
 ## Recommendation
 Review supplier prices for the 10 products with the lowest margins and try to negotiate better purchase prices. Also, check if these products receive discounts too often, as their margins are already low. In addition, show high-margin accessories as recommended products when customers buy electronics to increase overall profit.
 
-## Question 5: How does sales performance change from month to month?
-<p align="center">
-  <img src="images/sales-performance.png" alt="sales-performance">
-</p>
+## Question 4: How does sales performance change from month to month?
 
-<p align="center">
-  <img src="images/orders-sales.png" alt="orders-sales">
-</p>
 
 ## Observation
 Sales show a clear seasonal pattern. The highest sales and order volumes occur in November and December in both years:
@@ -114,10 +98,7 @@ The number of orders and total sales move almost identically throughout the enti
 ## Recommendation
 The company should increase marketing activity and inventory levels before November and December to take advantage of peak demand. Special attention should also be given to January, when sales drop sharply. To reduce the post-holiday slowdown, the company could launch retention campaigns, loyalty offers, or targeted promotions for existing customers.
 
-## Question 3: Which customers are most likely to make a repeat purchase?
-<p align="center">
-  <img src="images/repeat-purchase.png" alt="repeat-purchase">
-</p>
+## Question 5: Which customers are most likely to make a repeat purchase?
 
 ## Observation
 Out of 4,203 customers who made their first completed purchase, 1,904 customers (45.3%) made a second purchase within 90 days.
@@ -131,13 +112,7 @@ At the same time, the company should review the quality of customers acquired th
 Since more than half of customers do not return within 90 days, the company could also introduce targeted retention campaigns, loyalty incentives, and personalized product recommendations to encourage repeat purchases.
 
 ## Question 6: How many registered customers have placed an order?
-<p align="center">
-  <img src="images/placed-an-order.png" alt="placed-an-order">
-</p>
 
-<p align="center">
-  <img src="images/delivery-status.png" alt="delivery-status">
-</p>
 
 ## Observation
 Out of 4,994 registered customer accounts, 4,217 customers (84.4%) placed at least one order, while 777 customers (15.6%) never made a purchase.
@@ -150,9 +125,7 @@ Create targeted campaigns for the 777 registered customers who have never placed
 The company should also investigate the reasons behind returned and cancelled orders, especially in categories with high sales volumes. Reducing returns and cancellations could improve customer satisfaction and increase profitability without acquiring new customers.
 
 ## Question 7: Which product categories have the highest return rate?
-<p align="center">
-  <img src="images/return-rate.png" alt="return-rate">
-</p>
+
 
 ## Observation
 The Children category has the highest return rate (9.43%). Although it generates relatively low revenue, it has one of the highest margins. This suggests that reducing returns in this category could improve profitability.
@@ -163,9 +136,7 @@ On the other hand, Accessories have the lowest return rate (7.74%) and the highe
 Investigate the reasons for returns in the Children and Electronics categories and review pricing and discount policies for Electronics. At the same time, increase the visibility of Accessories, especially as recommended products for Electronics purchases, as this category offers high margins and low return rates.
 
 ## Question 8: Which marketing channels generate the highest customer lifetime value (LTV)?
- <p align="center">
-  <img src="images/LTV.png" alt="LTV">
-</p>
+
 
 ## Observations
 Meta Ads generates the highest revenue (PLN 10.1M) and the largest customer base (1,481 customers). However, despite receiving 42% of the marketing budget, it does not generate the highest customer lifetime value (LTV). Its LTV (PLN 6,848 per customer) is lower than Organic, Referral, and Newsletter customers.
@@ -176,10 +147,8 @@ Meta Ads remains an important channel because it generates the highest revenue a
 Before reallocating marketing spend, the company should calculate Customer Acquisition Cost (CAC) for each channel and compare it with LTV. This would help determine which channels deliver the best return on marketing investment.
 At the same time, the company should consider increasing focus on Organic and Referral channels, as they generate the highest-value customers and may provide a better long-term return.
 
-## Question 10: Which products are at risk of running out of stock next month?
- <p align="center">
-  <img src="images/stock-next-month.png" alt="stock-next-month">
-</p>
+## Question 9: Which products are at risk of running out of stock next month?
+
 
 ## Observation
 A total of 434 active products (22% of the product catalog) have stock levels at or below the reorder point. This means a large number of products may soon run out of stock.
@@ -188,10 +157,7 @@ In addition, some products have negative stock levels, which may indicate invent
 ## Recommendation
 The company should review its inventory management process and investigate the cause of negative stock levels. Automatic reorder alerts should be introduced to help prevent stock shortages. Priority should be given to products with zero or negative stock and products with high sales volume.
 
-## Question 11: Are best-selling products at risk of stock shortages?
- <p align="center">
-  <img src="images/stock-shortages.png" alt="stock-shortages">
-</p>
+## Question 10: Are best-selling products at risk of stock shortages?
 
 ## Observation
 Among the 20 best-selling products, 4 products already require reorder, including products with zero or very low stock levels. This confirms the findings from the previous analysis that inventory management may be a significant issue.
@@ -200,10 +166,8 @@ The fact that some top-selling products are close to being out of stock increase
 The company should investigate the inventory and replenishment process more closely, as the results suggest possible issues with stock planning, inventory tracking, or product ordering. This problem should be reported to the operations or supply chain team for further investigation.
 Priority should be given to best-selling products that are already below their reorder level to prevent future stock shortages and lost revenue.
 
-## Question 13: Which products may be overstocked?
- <p align="center">
-  <img src="images/overstocked.png" alt="overstocked">
-</p>
+## Question 11: Which products may be overstocked?
+
 
 ## Observations
 A total of 830 products have a stock level above 500 units. Several of these products have very high inventory levels despite relatively low sales volumes. For example:
